@@ -1,0 +1,14 @@
+Package: stat
+Type: Package
+Title: stat
+Version: 0.1.0
+Author: JW
+Maintainer: The package maintainer <jpwalczykowski@gmail.com>
+Description: Statistical hepler, use default  dataframe name : "train".
+License: What license is it under?
+Encoding: UTF-8
+Imports: ggplot2
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2023-07-02 10:22:39 UTC; DELL
+Built: R 4.3.0; ; 2023-07-02 10:22:43 UTC; windows
